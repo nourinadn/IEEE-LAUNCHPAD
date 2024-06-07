@@ -1,8 +1,9 @@
-# Full Name 
+# Nourin A 
 
 ### About Me
 
 > write about your self .................. (minimum 200 Characters)
+> Electrical and Electronics Engineering student with a passion in IT field jobs.Iam good in python programming.Have done web development course. I have basic knowledge in C++,html,css,java and MATLAB simulation.Iam looking for fresher job vaccancies for my first job experience.
 
 
 ## Portfolio Highlights
@@ -11,8 +12,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Birthday invite**  | Create a personalised birthday invitation card| [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/nourinadn/Birthday invite)             |
+| **Colour vocab website**  | Design and colouring of a website                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/nourinadn/Color vocab website)             |
 
 #### Leadership and Influence:
 
